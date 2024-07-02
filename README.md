@@ -1,3 +1,6 @@
+
+![Screenshot_1](https://github.com/denderange/adminDashboardOnlyFrontendNextJs/assets/7695513/bb538e76-12c2-42fd-a5fa-8bb4d20d0844)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
